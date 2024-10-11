@@ -13,7 +13,7 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
-- [@ssiguach](https://github.com/ssiguach) ⚡
+- [@ssiguachi](https://github.com/ssiguachi) ⚡
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
